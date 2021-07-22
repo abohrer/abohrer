@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abohrer
+- 👋 Hi, I’m @abohrer I am  Product Owner.
 - 👀 I’m interested in Agile
-- 🌱 I’m currently learning python, ruby, cucumber
+- 🌱 I’m currently learning python, ruby, cucumber, agile
 - 💞️ I’m looking to collaborate on lots of projects
 - 📫 How to reach me linkedin.com/in/arianaschimidt
 

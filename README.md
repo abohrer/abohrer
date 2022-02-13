@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abohrer I am  Product Owner.
-- 👀 I’m interested in Agile
-- 🌱 I’m currently learning c#, ruby, cucumber, agile
+- 👋 Hi, I’m @abohrer I am  Product Manager acting like a Business Agility Consulter.
+- 👀 I’m interested in Agile.
+- 🌱 I’m currently learning SAfe, Scrum, Kanban, Lean
 - 💞️ I’m looking to collaborate on lots of projects
 - 📫 How to reach me linkedin.com/in/arianaschimidt
 

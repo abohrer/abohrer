@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @abohrer I am  Product Manager acting like a Business Agility Consulter.
-- 👀 I’m interested in Agile.
-- 🌱 I’m currently learning SAFe, Scrum, Kanban, Lean
-- 💞️ I’m looking to collaborate on lots of projects
+
 - 📫 How to reach me http://linkedin.com/in/arianaschimidt
 
 <!---
